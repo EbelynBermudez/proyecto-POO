@@ -1,0 +1,3 @@
+Nombre del Cajero: carlos
+ID del Cajero: 1234
+
