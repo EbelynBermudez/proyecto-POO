@@ -1,9 +1,0 @@
-
-Código del Combo: 1234
-Nombre del Combo: MaxiCombo
-Precio del Combo: 25200.0
-Productos en el Combo:
- - Nombre: Hambuguesa Tipo: sencilla
- - Nombre: Gaseosa Tipo: Pepsi
- - Nombre: Papas Tipo: Fritas
-
